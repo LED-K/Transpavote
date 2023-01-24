@@ -1,0 +1,19 @@
+[   
+        {
+            "candidates": [
+                {
+                    "name" : "Macron",
+                    "description" : "Candidat aux el 2023",
+                    "image" : "https://upload.wikimedia.org/wikipedia/commons/d/d2/Emmanuel_Macron_June_2022_%28cropped%29.jpg",
+                    "mail" : "test@test.fr"
+                },
+                {
+                    "name" : "Melenchon",
+                    "description" : "Candidat aux el 2023",
+                    "image" : "https://pbs.twimg.com/profile_images/1504144526247616515/JgtQ2mGP_400x400.jpg",
+                    "mail" : "test@test.fr"
+                }
+            ]
+        }      
+   
+]
